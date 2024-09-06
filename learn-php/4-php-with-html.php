@@ -17,7 +17,9 @@ echo "<h1 style='color:skyblue'>This is another 'html in php'<h1/>";
 $h3_color = "purple";
 
 // another style of using varialbe - old php style 
-echo "<h3 style='color:purple'><br/> This is in another php block. name: ".$name."<h3/>";  
+echo "<h3 style='color:purple'><br/> This is in another php block. name: " . $name . "<h3/>";
+
+// echo phpinfo();
 
 ?>
 
